@@ -1,5 +1,8 @@
 Flipkart Headset Scraper
-This project scrapes data about Bluetooth headsets from Flipkart, focusing on products with high ratings and price ranges. The data collected includes product names, prices, and reviews, and it visualizes the results using various plots.
+
+
+This project scrapes data about Bluetooth headsets from Flipkart, focusing on products with high ratings and price ranges. 
+The data collected includes product names, prices, and reviews, and it visualizes the results using various plots.
 
 Features
 Scrapes headset data from Flipkart.
